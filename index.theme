@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=eOS-x
+Comment=A gtk theme for elementary os
+Encoding=UTF-8
+
+Name[en_US]=eOS-x
+
+[X-GNOME-Metatheme]
+GtkTheme=eOS-x
+IconTheme=elementary
+CursorTheme=DMZ-Black
+ButtonLayout=close:maximize

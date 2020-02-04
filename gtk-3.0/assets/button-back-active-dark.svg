@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="72" height="25" version="1.2" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <linearGradient id="linearGradient10844" x1="89.789" x2="89.789" y1="61.258" y2="50.416" gradientTransform="translate(-55.001 -38)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m10.277 0.5-9.4688 11.688 9.4688 11.312h58.223c1.108 0 2-0.892 2-2v-19c0-1.108-0.89202-2-2-2h-53.817z" color="#000000" fill="#14c8cc" fill-opacity=".94118"/>
+ <g fill="none">
+  <path d="m10.628 1.5-8.6008 10.688 8.6579 10.312h57.815c0.554 0 1-0.446 1-1v-19c0-0.554-0.446-1-1-1z" color="#000000" opacity=".05" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m0.699 13.854 9.1227 10.646h58.678c1.662 0 3-1.338 3-3v-19" color="#000000" opacity=".05" stroke="url(#linearGradient10844)"/>
+  <path d="m10.277 0.5-9.4688 11.688 9.4688 11.312h58.223c1.108 0 2-0.892 2-2v-19c0-1.108-0.89202-2-2-2h-53.817z" color="#000000" opacity=".4" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+ </g>
+</svg>
