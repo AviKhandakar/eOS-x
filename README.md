@@ -1,7 +1,7 @@
 # eOS-x (beta)
 A light theme for elementary OS.
 
-Scence my favorite theme OSe-Light (https://www.deviantart.com/wefunkster/art/OSe-Light-Xtrlght-GTK-themes-for-elementary-OS-694065OSe-Light854) 
+Since my favorite theme OSe-Light (https://www.deviantart.com/wefunkster/art/OSe-Light-Xtrlght-GTK-themes-for-elementary-OS-694065OSe-Light854) 
 no longer compatible with recent version of elementary os, I made one for myself :)
 It still in beta. So you may find some inconsistencies.
 
