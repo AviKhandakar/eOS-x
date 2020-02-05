@@ -20,3 +20,5 @@ gsettings set org.gnome.desktop.interface gtk-theme "eOS-x"
 ![](screenshot/1.png)
 
 ![](screenshot/2.png)
+
+Love this theme? Why not buy me a coffee? https://www.paypal.com/paypalme2/avikhandakar
